@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "pirate-coding": "./rule.mdc"
+  },
+  "mcpServers": {
+    "aicm Docs": {
+      "url": "https://gitmcp.io/ranyitz/aicm"
+    }
+  }
+}
