@@ -1,6 +1,6 @@
 {
   "rules": {
-    "pirate-coding": "./rule.mdc"
+    "rule": "./rule.mdc"
   },
   "mcpServers": {
     "aicm Docs": {
